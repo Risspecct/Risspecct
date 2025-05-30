@@ -30,9 +30,10 @@ I'm **Rishik Garg**, a 3rd-year Computer Science student from Hyderabad, India. 
 
 ### 🌟 Featured Projects
 
-* 🚀 **[Spring Course Management System](https://github.com/Risspecct/Spring-Course-Management-System)**
-  *Spring Boot • MySQL • Maven*
-  A backend system using multiple entities and full CRUD support.
+* ✅ **[To-Do List Application](https://github.com/Risspecct/To-Do-List)**  
+  *Spring Boot • MySQL • Spring Security (JWT)*  
+  A secure backend system supporting user authentication and full CRUD operations for task and list management.
+
 
 * 🍻 **[Recipe Project](https://github.com/Risspecct/Recipe-Project)**
   *FastAPI • External API (Spoonacular) • Render Deployment*
