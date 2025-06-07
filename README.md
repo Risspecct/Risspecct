@@ -30,15 +30,17 @@ I'm **Rishik Garg**, a 3rd-year Computer Science student from Hyderabad, India. 
 
 ### 🌟 Featured Projects
 
-* ✅ **[To-Do List Application](https://github.com/Risspecct/To-Do-List)**  
-  *Spring Boot • MySQL • Spring Security (JWT)*  
-  A secure backend system supporting user authentication and full CRUD operations for task and list management.
+* 🏠 **[Blog Platform Backend](https://github.com/Risspecct/Blog-Platform-Backend)**
+  *Spring Boot • MySQL • JWT • Role-Based Security • MapStruct*
+  A role-secured blogging platform backend with full user hierarchy (ADMIN > MOD > AUTHOR > VIEWER), CRUD for posts/comments, JWT authentication, and robust exception handling.
 
+* ✅ **[To-Do List Application](https://github.com/Risspecct/To-Do-List)**
+  *Spring Boot • MySQL • Spring Security (JWT)*
+  A secure backend system supporting user authentication and full CRUD operations for task and list management.
 
 * 🍻 **[Recipe Project](https://github.com/Risspecct/Recipe-Project)**
   *FastAPI • External API (Spoonacular) • Render Deployment*
   Fetches recipe data based on user ingredients using a clean modular backend.
-
 ---
 
 ### 📊 GitHub Stats
