@@ -1,7 +1,7 @@
 # Hi there, I'm Rishik Garg! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rishik-garg-009860332/)
-[![Gmail](https://img.shields.io/badge/Email-rishikgarg40@gmail.com-red?logo=gmail\&logoColor=white)](mailto:rishikgarg40@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-rishikgarg.dev@gmail.com-red?logo=gmail\&logoColor=white)](mailto:rishikgarg.dev@gmail.com)
 
 ---
 
