@@ -9,7 +9,7 @@
 
 I'm **Rishik Garg**, a 3rd-year Computer Science student from Hyderabad, India. Passionate backend developer in the making, currently building real-world projects with Spring Boot and FastAPI while actively learning new technologies.
 
-> "The world isn’t perfect. But it’s there for us trying the best it can… that’s what makes it so damn beautiful." — *Roy Mustang*
+> “When does a man die? When he is hit by a bullet? No! When he suffers a disease? No! When he ate a soup made out of a poisonous mushroom? No! A man dies when he is forgotten!”  — *Dr Hiriluk*
 
 ---
 
