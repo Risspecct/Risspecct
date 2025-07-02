@@ -34,7 +34,7 @@ I'm **Rishik Garg**, a 3rd-year Computer Science student from Hyderabad, India. 
   *Spring Boot • MySQL • JWT • Role-Based Security • MapStruct*
   A role-secured blogging platform backend with full user hierarchy (ADMIN > MOD > AUTHOR > VIEWER), CRUD for posts/comments, JWT authentication, and robust exception handling.
 
-* ✅ **[SpringAuthStarter](https://github.com/Risspecct/SpringAuthStarter)**  
+* ✅ **[SpringAuthStarter](https://github.com/Risspecct/Spring-Security-Starter)**  
   *Spring Boot • Spring Security (JWT) • MySQL*  
   A reusable authentication and authorization starter template featuring JWT-based security, role-based access, and modular architecture.
 
