@@ -30,17 +30,17 @@ I'm **Rishik Garg**, a 3rd-year Computer Science student from Hyderabad, India. 
 
 ### 🌟 Featured Projects
 
-* 🏠 **[Blog Platform Backend](https://github.com/Risspecct/Blog-Platform-Backend)**
-  *Spring Boot • MySQL • JWT • Role-Based Security • MapStruct*
-  A role-secured blogging platform backend with full user hierarchy (ADMIN > MOD > AUTHOR > VIEWER), CRUD for posts/comments, JWT authentication, and robust exception handling.
-
 * ✅ **[SpringAuthStarter](https://github.com/Risspecct/Spring-Security-Starter)**  
   *Spring Boot • Spring Security (JWT) • MySQL*  
   A reusable authentication and authorization starter template featuring JWT-based security, role-based access, and modular architecture.
 
 * 🏥 **[Medify](https://github.com/Risspecct/Medify)**  
   *FastAPI • IBM Watson • GCP Vision • Render Deployment*  
-  An intelligent prescription analyzer that uses OCR and NER to extract medical data, verifies it against a dosage dataset, checks for drug interactions with an LLM, and generates a final patient-friendly summary.
+  An intelligent prescription analyzer that uses OCR and NER to extract medical data, verifies it against a dosage dataset, checks for drug interactions with an  LLM, and generates a final patient-friendly summary.
+
+* 🏠 **[Blog Platform Backend](https://github.com/Risspecct/Blog-Platform-Backend)**  
+  *Spring Boot • MySQL • JWT • Role-Based Security • MapStruct*  
+  A role-secured blogging platform backend with full user hierarchy (ADMIN > MOD > AUTHOR > VIEWER), CRUD for posts/comments, JWT authentication, and robust exception handling.
 ---
 
 ### 📊 GitHub Stats
