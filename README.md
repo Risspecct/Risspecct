@@ -38,9 +38,9 @@ I'm **Rishik Garg**, a 3rd-year Computer Science student from Hyderabad, India. 
   *Spring Boot • Spring Security (JWT) • MySQL*  
   A reusable authentication and authorization starter template featuring JWT-based security, role-based access, and modular architecture.
 
-* 🍻 **[Recipe Project](https://github.com/Risspecct/Recipe-Project)**
-  *FastAPI • External API (Spoonacular) • Render Deployment*
-  Fetches recipe data based on user ingredients using a clean modular backend.
+* 🍻 **[Medify](https://github.com/Risspecct/Medify)**
+  *FastAPI • IBM Watson • GCP Vision • Render Deployment*
+   An intelligent prescription analyzer that uses OCR and NER to extract medical data, verifies it against a dosage dataset, checks for drug interactions with an LLM, and generates a final patient-friendly summary.
 ---
 
 ### 📊 GitHub Stats
